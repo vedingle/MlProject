@@ -1,0 +1,2 @@
+creating a repository in git hub 
+and cloning a repository with GitHub

@@ -1,0 +1,3 @@
+create a new file setup.py
+2. requirement.txt
+2. src folder and build the package 
